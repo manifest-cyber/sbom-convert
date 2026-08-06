@@ -36,7 +36,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Set up QEMU
-        uses: docker/setup-qemu-action@v1
+        uses: docker/setup-qemu-action@96fe6ef7f33517b61c61be40b68a1882f3264fb8 # v4
       - name: Setup Go
         uses: actions/setup-go@v3
         with:
