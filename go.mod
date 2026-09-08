@@ -3,7 +3,7 @@ module github.com/bom-squad/go-cli
 go 1.20
 
 require (
-	github.com/bom-squad/protobom v0.0.0-20230705100142-61370e0fc7a3
+	github.com/bom-squad/protobom v0.6.1
 	github.com/muesli/mango-cobra v1.2.0
 	github.com/muesli/roff v0.1.0
 	github.com/spf13/cobra v1.7.0
